@@ -5,7 +5,7 @@
       <h1>Xinzi Cao</h1>
       <p><b>Undergraduate</b></p>
       <p><b></b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
+      <p><b>Email: Cliffia7@gmail.com</b></p>
       <p><b>South China Normal University</b></p>
       <p><b>Email: Cliffia7@gmail.com</b></p>
       <p><a href="/index-ch.md">China Version</a></p>
