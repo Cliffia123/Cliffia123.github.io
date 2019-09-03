@@ -31,7 +31,7 @@ During my university years, I won a school scholarship and a national motivation
 
 ### Research direction
 - Pattern recognition
-- Natural language processing
+- Computer vision
 - Machine learning
 
 ### Honors, Awards, & Fellowships
