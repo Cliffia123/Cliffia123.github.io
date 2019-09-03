@@ -28,7 +28,7 @@
 
 ### Research direction
 - 模式识别
-- 图像处理
+- 计算机视觉
 - 机器学习
 
 ### Honors, Awards, & Fellowships
