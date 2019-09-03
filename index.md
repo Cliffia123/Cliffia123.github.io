@@ -8,6 +8,7 @@
       <p><b>Email: Cliffia7@gmail.com</b></p>
       <p><b>South China Normal University</b></p>
       <p><b>Email: Cliffia7@gmail.com</b></p>
+      <p><b>GPA: 3.55/5.0</b></p>
       <p><a href="/index-ch.md">China Version</a></p>
     </td>
     <td width="25%">
@@ -52,5 +53,4 @@ In textile fabrics, the small flaws of manual inspection of clothes are very res
 
 #### Company(2019.7-now)
 - **Huawei**
-At present, I am an intern at Huawei company and I work as a general software development engineer. Although I have been in contact with work, I still have a great passion for scientific research.At present, I am an intern at Huawei company and I work as a general software development engineer. Although I have been in contact with work, I still have a great passion for scientific research.
-
+Currently, I am a software development engineer at Huawei. Although I have been in contact with work, I am still passionate about scientific research. During the internship, get a good internship.
