@@ -5,9 +5,8 @@
       <h1>Xinzi Cao</h1>
       <p><b>Undergraduate</b></p>
       <p><b></b></p>
-      <p><b>Email: Cliffia7@gmail.com</b></p>
       <p><b>South China Normal University</b></p>
-      <p><b>Email: Cliffia7@gmail.com</b></p>
+      <p><b>Email: cliffia_scnu@163.com</b></p>
       <p><b>GPA: 3.55/5.0</b></p>
       <p><a href="/index-ch.md">China Version</a></p>
     </td>
