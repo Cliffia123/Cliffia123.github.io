@@ -5,7 +5,7 @@
       <h1>曹心姿</h1>
       <p><b>本科大三</b></p>
       <p><b>华南师范大学</b></p>
-      <p><b>Email: Cliffia7@gmail.com</b></p>
+      <p><b>Email: cliffia_scnu@163.com</b></p>
       <p><b>GPA：3.55/5.0</b></p>
       <p><a href="/index.md">英文版</a></p>
     </td>
