@@ -4,7 +4,6 @@
     <td width="75%">
       <h1>Xinzi Cao</h1>
       <p><b>Undergraduate</b></p>
-      <p><b></b></p>
       <p><b>South China Normal University</b></p>
       <p><b>Email: cliffia_scnu@163.com</b></p>
       <p><b>GPA: 3.55/5.0</b></p>
@@ -19,7 +18,7 @@
 
 ---
 
-During my university years, I won a school scholarship and a national motivational scholarship for three consecutive years, my university's advanced math score is 98 points. I am passionate about image processing, pattern recognition technology, have participated in several research projects and dozens of competitions, and wrote papers as the first author. The paper has been accepted by Computer and Digital Engineering, Chinese core journals.
+During my university years, I won a school scholarship and a national motivational scholarship for two consecutive years, my university's advanced math score is 94 points. I am passionate about image processing, pattern recognition technology, have participated in several research projects and dozens of competitions, and wrote papers as the first author. The paper has been accepted by Computer and Digital Engineering, Chinese core journals.
 
 
 ---
