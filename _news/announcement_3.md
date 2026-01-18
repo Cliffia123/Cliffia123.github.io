@@ -1,10 +1,8 @@
 ---
 layout: post
-date: 2026-06-26 07:59:00-0400
+date: 2025-12-4 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-One paper on Generalized Category Discovery is accepted by the journal ICCV 2025 🎉🎉.
-One paper on Prompt tunning is accepted by the journal ICCV 2025 🎉🎉.
-
+One paper on debiasing prototypes in Generalized Category Discoveryis is accepted by IEEE TCSVT 🎉🎉.
