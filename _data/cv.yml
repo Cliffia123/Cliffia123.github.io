@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Xinzi Cao
     - name: Date of Birth
-      value: 14th March 1879
+      value: 13rd April 1996
     - name: Languages
-      value: English, German
+      value: Chinese, English, Cantonese
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Sun Yat-sen University, Guangzhou, China
+      year: 2022-2026
       description:
         - Description 1.
         - Description 2.

@@ -652,13 +652,13 @@ jekyll_get_json:
 
 jsonresume:
   - basics
-  - work
+  # - work
   - education
   - publications
   - projects
-  - volunteer
+  # - volunteer
   - awards
-  - certificates
+  # - certificates
   - skills
   - languages
   - interests
