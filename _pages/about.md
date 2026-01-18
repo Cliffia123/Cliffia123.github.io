@@ -40,17 +40,17 @@ I’m building AI that doesn’t panic when it meets something new—teaching mo
 
 My research focus:
 
-- **True open-world learning:**
+- **Open-world Learning:**
 Developing systems that can discover, adapt, and classify unknown samples in real-world open scenarios, not just in tidy benchmark settings.
 
 
 - **Generalized & Novel Category Discovery (GCD/NCD):**
 Enabling models to learn from known categories and generalize to unseen ones—so they can recognize new things without being explicitly taught.
 
-- **Cross-context integration:**
+- **Cross-context Integration:**
 Combining open-world recognition with other tasks to make models more practical and robust in diverse applications.
 
-- **Large models & neural processing:**
+- **Large Models & Neural Processing:**
 Exploring how large models can enhance learning and improve the efficiency and intelligence of neural systems.
 
 
