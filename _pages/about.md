@@ -22,7 +22,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: False
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -47,8 +47,8 @@ Developing systems that can discover, adapt, and classify unknown samples in rea
 - **Generalized & Novel Category Discovery (GCD/NCD):**
 Enabling models to learn from known categories and generalize to unseen ones—so they can recognize new things without being explicitly taught.
 
-- **Cross-context Integration:**
-Combining open-world recognition with other tasks to make models more practical and robust in diverse applications.
+<!-- - **Cross-context Integration:**
+Combining open-world recognition with other tasks to make models more practical and robust in diverse applications. -->
 
 - **Large Models & Neural Processing:**
 Exploring how large models can enhance learning and improve the efficiency and intelligence of neural systems.
