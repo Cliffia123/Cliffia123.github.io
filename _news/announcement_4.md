@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One Technical Report on NPU Kernel generation is released in arxiv.
+One Technical Report on NPU Kernel generation is released in [arxiv](https://arxiv.org/abs/2601.07160).
