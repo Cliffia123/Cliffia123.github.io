@@ -440,12 +440,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-one-paper-on-using-low-level-cues-for-weakly-supervised-object-localoization-is-accepted-by-acmmm-2023",
+          title: 'One paper on using low-level cues for Weakly Supervised Object Localoization is accepted...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-one-technical-report-on-npu-kernel-generation-is-released-in-arxiv",
+          section: "News",},{id: "news-one-paper-on-solving-catastrophic-forgetting-problem-is-accepted-by-cvpr-2024",
+          title: 'One paper on solving catastrophic forgetting problem is accepted by CVPR 2024 🎉🎉....',
+          description: "",
+          section: "News",},{id: "news-one-paper-on-debiasing-prototypes-in-generalized-category-discoveryis-is-accepted-by-ieee-tcsvt",
+          title: 'One paper on debiasing prototypes in Generalized Category Discoveryis is accepted by IEEE...',
+          description: "",
+          section: "News",},{id: "news-one-technical-report-on-npu-kernel-generation-is-released-in-arxiv",
           title: 'One Technical Report on NPU Kernel generation is released in arxiv.',
           description: "",
           section: "News",},{id: "news-one-paper-on-generalized-category-discovery-is-accepted-by-the-journal-iccv-2025-one-paper-on-prompt-tunning-is-accepted-by-the-journal-iccv-2025",
