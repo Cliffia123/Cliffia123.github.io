@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-One paper on Generalized Category Discovery is accepted by the journal ICCV 2025 🎉🎉.
+One paper on GCD is accepted by the journal ICCV 2025 🎉🎉.
 
 One paper on Prompt tunning is accepted by the journal ICCV 2025 🎉🎉.
 
