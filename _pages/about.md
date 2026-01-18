@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -28,6 +28,14 @@ latest_posts:
 ---
 
 I’m currently a Ph.D. candidate at the [School of Computer Science and Engineering](https://cse.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/). I am also affiliated with the Intelligent Computing Department at [Pengcheng Laboratory](https://www.pcl.ac.cn/). I received my Master’s degree in Computer Science from the same university in 2022. My Bachelor’s degree in [Software Engineering](http://ai.scnu.edu.cn/) was obtained from [South China Normal University](https://www.scnu.edu.cn/) in 2020.
+
+
+I work on **Generalized and Novel Category Discovery (GCD/NCD)**—teaching models to recognize new things by learning from known things. In other words, I’m trying to make AI less like a student who only knows what’s on the test, and more like someone who can walk into a new room and still figure out what’s going on.
+
+My goal is to enable true open-world learning, where models can discover and classify unknown samples in the wild—just like humans do when they encounter something unfamiliar. I also enjoy exploring how to combine this “open learning” with other tasks, so models can recognize the unknown in a broader range of real-world settings.
+
+Besides that, I’m also diving into large models and their applications, hoping to enhance neural processing and make AI systems smarter, faster, and more adaptable.
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
