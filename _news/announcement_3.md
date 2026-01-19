@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper on debiasing prototypes is accepted by IEEE TCSVT 🎉🎉.
+One paper on prototypes debiasing is accepted by IEEE TCSVT 🎉🎉.

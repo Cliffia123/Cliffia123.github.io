@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper on GCD is accepted by the journal ICCV 2025 🎉🎉.
+One paper on trying use all unlabeled data is accepted by the journal ICCV 2025 🎉🎉.
