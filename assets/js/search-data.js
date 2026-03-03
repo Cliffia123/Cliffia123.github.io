@@ -288,7 +288,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/assets/pdf/example_pdf.pdf";
+            window.location.href = "/assets/pdf/Xinzi's%20Resume.pdf";
           
         },
       },{id: "post-a-post-with-diagrams",
@@ -462,7 +462,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/Xinzi's%20Resume.pdf", "_blank");
         },
       },{
         id: 'social-email',
