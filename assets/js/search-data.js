@@ -384,8 +384,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-one-paper-on-using-low-level-cues-for-weakly-supervised-object-localoization-is-accepted-by-acmmm-2023",
-          title: 'One paper on using low-level cues for Weakly Supervised Object Localoization is accepted...',
+            },},{id: "news-one-paper-on-using-low-level-cues-for-weakly-supervised-object-localization-is-accepted-by-acmmm-2023",
+          title: 'One paper on using low-level cues for Weakly Supervised Object Localization is accepted...',
           description: "",
           section: "News",},{id: "news-one-paper-on-solving-catastrophic-forgetting-problem-is-accepted-by-cvpr-2024",
           title: 'One paper on solving catastrophic forgetting problem is accepted by CVPR 2024 🎉🎉....',
