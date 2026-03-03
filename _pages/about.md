@@ -34,10 +34,10 @@ I’m building AI that doesn’t panic when it meets something new—teaching mo
 My research focus:
 
 - **Open-world Learning:**
-Developing systems that can discover, adapt, and classify unknown samples in real-world open scenarios, not just in tidy benchmark settings.
+  Developing systems that can discover, adapt, and classify unknown samples in real-world open scenarios, not just in tidy benchmark settings.
 
 - **Generalized & Novel Category Discovery (GCD/NCD):**
-Enabling models to learn from known categories and generalize to unseen ones—so they can recognize new things without being explicitly taught.
+  Enabling models to learn from known categories and generalize to unseen ones—so they can recognize new things without being explicitly taught.
 
 - **Large Models & Neural Processing:**
-Exploring how large models can enhance learning and improve the efficiency and intelligence of neural systems.
+  Exploring how large models can enhance learning and improve the efficiency and intelligence of neural systems.
