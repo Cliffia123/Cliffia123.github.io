@@ -402,6 +402,9 @@ ninja.data = [{
           section: "News",},{id: "news-one-technical-report-on-npu-kernel-generation-is-released-in-arxiv",
           title: 'One Technical Report on NPU Kernel generation is released in arxiv.',
           description: "",
+          section: "News",},{id: "news-two-papers-are-accepted-by-icme-2026",
+          title: 'Two papers are accepted by ICME 2026 😀.',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -462,7 +465,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/Xinzi's%20Resume.pdf", "_blank");
+          window.open("/assets/pdf/Xinzi.pdf", "_blank");
         },
       },{
         id: 'social-email',
