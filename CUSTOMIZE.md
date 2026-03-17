@@ -444,7 +444,7 @@ schedule:
     description: Overview of course content and objectives
     materials:
       - name: Slides
-        url: /assets/pdf/Xinzi's Resume.pdf
+        url: /assets/pdf/Xinzi.pdf
       - name: Reading
         url: https://example.com/reading
   - week: 2
