@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Ph.D. candidate at [Sun Yat-sen University](https://www.sysu.edu.cn/) and [Pengcheng Laboratory](https://www.pcl.ac.cn/), 
-supervised by [Yutong Lu](https://cse.sysu.edu.cn/teacher/LuYutong). 
+I am currently a Ph.D. candidate at [Sun Yat-sen University](https://www.sysu.edu.cn/) and [Pengcheng Laboratory](https://www.pcl.ac.cn/),
+supervised by [Yutong Lu](https://cse.sysu.edu.cn/teacher/LuYutong).
 I received my Master’s degree in Computer Science from Sun Yat-sen University in 2022, and my Bachelor’s degree in Software Engineering from South China Normal University in 2020.
 
 I’m building AI that doesn’t panic when it meets something new—teaching models to discover and recognize unknown categories in the wild. In other words, I want AI to be less like a student who only knows the test, and more like someone who can walk into a new room and still figure out what’s going on.
