@@ -37,25 +37,34 @@ layout: default
         {% endif %}
         <!-- Social icons next to profile -->
         {% if page.social %}
+          <style>
+            .profile .social .contact-icons {
+              font-size: 1.2rem !important;
+            }
+            .profile .social .contact-icons a {
+              margin: 0 0.3rem;
+              display: inline-block;
+            }
+            .profile .social .contact-icons a svg,
+            .profile .social .contact-icons a svg image {
+              width: 1.2rem !important;
+              height: 1.2rem !important;
+              margin-bottom: 0.2rem !important;
+            }
+            .profile .social .contact-icons a img {
+              width: 1.2rem !important;
+              height: 1.2rem !important;
+              margin-bottom: 0.2rem !important;
+            }
+            .profile .social .contact-icons a i {
+              font-size: 1.2rem !important;
+            }
+            .profile .social .contact-icons a i::before {
+              font-size: 1.2rem !important;
+            }
+          </style>
           <div class="social" style="margin-top: 1rem; text-align: center;">
-            <div class="contact-icons" style="font-size: 1.5rem;">
-              <style>
-                .profile .contact-icons a svg {
-                  width: 1.5rem !important;
-                  height: 1.5rem !important;
-                  margin-bottom: 0.3rem;
-                }
-                .profile .contact-icons a img {
-                  width: 1.5rem !important;
-                  height: 1.5rem !important;
-                  margin-bottom: 0.3rem;
-                }
-                .profile .contact-icons a {
-                  margin: 0 0.3rem;
-                }
-              </style>
-              {% social_links %}
-            </div>
+            <div class="contact-icons">{% social_links %}</div>
           </div>
         {% endif %}
       </div>
