@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Ph.D. candidate at [Sun Yat-sen University](https://www.sysu.edu.cn/) and [Pengcheng Laboratory](https://www.pcl.ac.cn/),
+<!-- I am currently a Ph.D. candidate at [Sun Yat-sen University](https://www.sysu.edu.cn/) and [Pengcheng Laboratory](https://www.pcl.ac.cn/),
 supervised by [Yutong Lu](https://cse.sysu.edu.cn/teacher/LuYutong).
 I received my Master’s degree in Computer Science from Sun Yat-sen University in 2022, and my Bachelor’s degree in Software Engineering from South China Normal University in 2020.
 
@@ -42,4 +42,6 @@ My research focus:
   Enabling models to learn from known categories and generalize to unseen ones—so they can recognize new things without being explicitly taught.
 
 - **Large Models & Neural Processing:**
-  Exploring how large models can enhance learning and improve the efficiency and intelligence of neural systems.
+  Exploring how large models can enhance learning and improve the efficiency and intelligence of neural systems. -->
+
+  Xinzi Cao is an Research Assistant at the Institute of Embodied Intelligence, Pengcheng Laboratory. He received his Ph.D. from [Sun Yat-sen University](https://www.sysu.edu.cn/)  and [Pengcheng Laboratory](https://www.pcl.ac.cn/), under the supervision of [Prof. Yutong Lu](https://scholar.google.com/citations?user=WVyxYmQAAAAJ&hl=zh-CN). His research focuses on open-world intelligence, aiming to develop AI systems that can perceive, learn, and adapt to novel and evolving environments. His previous work spans generalized category discovery, continual learning, and multimodal learning, enabling models to discover new concepts and acquire knowledge beyond predefined categories. SHe also explores large language models for AI systems, including AscendKernelGen, which leverages LLMs to automate NPU kernel generation. His current research focuses on embodied intelligence and multimodal learning for interaction with the physical world.
